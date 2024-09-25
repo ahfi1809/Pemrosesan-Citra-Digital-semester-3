@@ -11,7 +11,7 @@ Tahun: 2024/2025
 
 ### Dosen Pengampu Mata Kuliah:
 
-Dr. Harja Santana Purba, M.Kom
+Dr. Harja Santana Purba, M.Kom  
 Novan Alkaf Bahraini Saputra, S.Kom., M.T
 
 ---
