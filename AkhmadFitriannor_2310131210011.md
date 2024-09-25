@@ -7,7 +7,7 @@
 Nama Penulis: Akhmad Fitriannor \
 NIM: 2310131210011 \ 
 Program Studi: Pendidikan Komputer \ 
-Tahun: 2024/2025\
+Tahun: 2024/2025 \
 
 ---
 
